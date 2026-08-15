@@ -2,17 +2,15 @@
 
 A frontend challenge for **VOID**, focused on transforming a provided **Figma UI/UX design** into a responsive, modern web page that works across different screen sizes.
 
-<div align="center">
-  <img src="./Main.jpg" alt="Dashboard Screenshot" width="400">
-</div>
 
-## 🚀 Demo
 
-**Live Demo:** https://wondrous-croissant-a354a2.netlify.app/
+
 
 ## 📸 Preview
 
-*Add screenshots or a short GIF/video of the project here.*
+<div align="center">
+  <img src="./Main.jpg" alt="Dashboard Screenshot" width="400">
+</div>
 
 ## 🛠️ Technologies
 
@@ -93,7 +91,7 @@ npm run preview
 
 The project is deployed using **Netlify**.
 
-**Live:** https://your-netlify-url.netlify.app
+**Live:** [https://your-netlify-url.netlify.app](https://wondrous-croissant-a354a2.netlify.app/)
 
 ## 🎯 About the Challenge
 
