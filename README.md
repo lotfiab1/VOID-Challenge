@@ -1,1 +1,1 @@
-!UI/UX Design[](./Main.jpg)
+![UI/UX Design](./Main.jpg)
