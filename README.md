@@ -91,7 +91,7 @@ npm run preview
 
 The project is deployed using **Netlify**.
 
-**Live:** (https://wondrous-croissant-a354a2.netlify.app)[https://wondrous-croissant-a354a2.netlify.app]
+**Live:** https://wondrous-croissant-a354a2.netlify.app/
 
 ## 🎯 About the Challenge
 
