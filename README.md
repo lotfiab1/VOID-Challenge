@@ -1,9 +1,11 @@
 # VOID Challenge — Responsive UI Implementation
 
 A frontend challenge for **VOID**, focused on transforming a provided **Figma UI/UX design** into a responsive, modern web page that works across different screen sizes.
+
 <div align="center">
   <img src="./Main.jpg" alt="Dashboard Screenshot" width="400">
 </div>
+
 ## 🚀 Demo
 
 **Live Demo:** https://your-netlify-url.netlify.app
