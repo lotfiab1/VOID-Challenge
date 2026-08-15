@@ -52,13 +52,13 @@ void-challenge/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/void-challenge.git
+git clone https://github.com/lotfiab1/VOID-Challenge.git
 ```
 
 Navigate to the project:
 
 ```bash
-cd void-challenge
+cd VOID-Challenge
 ```
 
 Install dependencies:
@@ -123,7 +123,7 @@ During this challenge, I improved my experience with:
 
 * GitHub: https://github.com/lotfiab1
 * Portfolio: https://lotfiab1.github.io/lotfi-protfolio/
-* LinkedIn: https://www.linkedin.com/
+* LinkedIn: https://www.linkedin.com/in/lotfiab1
 
 ---
 
