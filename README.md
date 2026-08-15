@@ -1,1 +1,1 @@
-![UI/UX Design](./Main.jpg)
+<img src="./Main.jpg" alt="Dashboard Screenshot" width="400">
