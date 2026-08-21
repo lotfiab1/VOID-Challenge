@@ -127,6 +127,11 @@ During this challenge, I improved my experience with:
 
 ---
 
-⭐ If you find this project interesting, feel free to check out the repository and my other projects.
+# 📜 License
+
+This repository is available under the **MIT License**.
+
+See the [LICENSE](./LICENSE) file for details.
+
 
 
